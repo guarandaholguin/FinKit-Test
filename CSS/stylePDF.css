@@ -1,0 +1,899 @@
+ol.lst-kix_list_1-3 {
+	list-style-type: none;
+}
+ol.lst-kix_list_1-4 {
+	list-style-type: none;
+}
+.lst-kix_list_2-6 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '.'
+		counter(lst-ctn-kix_list_2-4, decimal) '.' counter(lst-ctn-kix_list_2-5, decimal) '.'
+		counter(lst-ctn-kix_list_2-6, decimal) '. ';
+}
+.lst-kix_list_2-7 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '.'
+		counter(lst-ctn-kix_list_2-4, decimal) '.' counter(lst-ctn-kix_list_2-5, decimal) '.'
+		counter(lst-ctn-kix_list_2-6, decimal) '.' counter(lst-ctn-kix_list_2-7, decimal) '. ';
+}
+.lst-kix_list_2-7 > li {
+	counter-increment: lst-ctn-kix_list_2-7;
+}
+ol.lst-kix_list_1-5 {
+	list-style-type: none;
+}
+ol.lst-kix_list_1-6 {
+	list-style-type: none;
+}
+.lst-kix_list_2-1 > li {
+	counter-increment: lst-ctn-kix_list_2-1;
+}
+ol.lst-kix_list_1-0 {
+	list-style-type: none;
+}
+.lst-kix_list_2-4 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '.'
+		counter(lst-ctn-kix_list_2-4, decimal) '. ';
+}
+.lst-kix_list_2-5 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '.'
+		counter(lst-ctn-kix_list_2-4, decimal) '.' counter(lst-ctn-kix_list_2-5, decimal) '. ';
+}
+.lst-kix_list_2-8 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '.'
+		counter(lst-ctn-kix_list_2-4, decimal) '.' counter(lst-ctn-kix_list_2-5, decimal) '.'
+		counter(lst-ctn-kix_list_2-6, decimal) '.' counter(lst-ctn-kix_list_2-7, decimal) '.'
+		counter(lst-ctn-kix_list_2-8, decimal) '. ';
+}
+ol.lst-kix_list_1-1 {
+	list-style-type: none;
+}
+ol.lst-kix_list_1-2 {
+	list-style-type: none;
+}
+.lst-kix_list_1-1 > li {
+	counter-increment: lst-ctn-kix_list_1-1;
+}
+ol.lst-kix_list_2-6.start {
+	counter-reset: lst-ctn-kix_list_2-6 0;
+}
+ol.lst-kix_list_1-8.start {
+	counter-reset: lst-ctn-kix_list_1-8 0;
+}
+ol.lst-kix_list_2-3.start {
+	counter-reset: lst-ctn-kix_list_2-3 0;
+}
+ol.lst-kix_list_1-5.start {
+	counter-reset: lst-ctn-kix_list_1-5 0;
+}
+ol.lst-kix_list_1-7 {
+	list-style-type: none;
+}
+.lst-kix_list_1-7 > li {
+	counter-increment: lst-ctn-kix_list_1-7;
+}
+ol.lst-kix_list_1-8 {
+	list-style-type: none;
+}
+ol.lst-kix_list_2-5.start {
+	counter-reset: lst-ctn-kix_list_2-5 0;
+}
+.lst-kix_list_2-0 > li {
+	counter-increment: lst-ctn-kix_list_2-0;
+}
+.lst-kix_list_2-3 > li {
+	counter-increment: lst-ctn-kix_list_2-3;
+}
+.lst-kix_list_2-6 > li {
+	counter-increment: lst-ctn-kix_list_2-6;
+}
+ol.lst-kix_list_1-7.start {
+	counter-reset: lst-ctn-kix_list_1-7 0;
+}
+.lst-kix_list_1-2 > li {
+	counter-increment: lst-ctn-kix_list_1-2;
+}
+ol.lst-kix_list_2-2.start {
+	counter-reset: lst-ctn-kix_list_2-2 0;
+}
+.lst-kix_list_1-5 > li {
+	counter-increment: lst-ctn-kix_list_1-5;
+}
+.lst-kix_list_1-8 > li {
+	counter-increment: lst-ctn-kix_list_1-8;
+}
+ol.lst-kix_list_1-4.start {
+	counter-reset: lst-ctn-kix_list_1-4 0;
+}
+ol.lst-kix_list_1-1.start {
+	counter-reset: lst-ctn-kix_list_1-1 0;
+}
+ol.lst-kix_list_2-2 {
+	list-style-type: none;
+}
+ol.lst-kix_list_2-3 {
+	list-style-type: none;
+}
+ol.lst-kix_list_2-4 {
+	list-style-type: none;
+}
+ol.lst-kix_list_2-5 {
+	list-style-type: none;
+}
+.lst-kix_list_1-4 > li {
+	counter-increment: lst-ctn-kix_list_1-4;
+}
+ol.lst-kix_list_2-0 {
+	list-style-type: none;
+}
+.lst-kix_list_2-4 > li {
+	counter-increment: lst-ctn-kix_list_2-4;
+}
+ol.lst-kix_list_1-6.start {
+	counter-reset: lst-ctn-kix_list_1-6 0;
+}
+ol.lst-kix_list_2-1 {
+	list-style-type: none;
+}
+ol.lst-kix_list_1-3.start {
+	counter-reset: lst-ctn-kix_list_1-3 0;
+}
+ol.lst-kix_list_2-8.start {
+	counter-reset: lst-ctn-kix_list_2-8 0;
+}
+ol.lst-kix_list_1-2.start {
+	counter-reset: lst-ctn-kix_list_1-2 0;
+}
+.lst-kix_list_1-0 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '. ';
+}
+ol.lst-kix_list_2-6 {
+	list-style-type: none;
+}
+.lst-kix_list_1-1 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '. ';
+}
+.lst-kix_list_1-2 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '. ';
+}
+ol.lst-kix_list_2-0.start {
+	counter-reset: lst-ctn-kix_list_2-0 0;
+}
+ol.lst-kix_list_2-7 {
+	list-style-type: none;
+}
+ol.lst-kix_list_2-8 {
+	list-style-type: none;
+}
+.lst-kix_list_1-3 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '. ';
+}
+.lst-kix_list_1-4 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '.'
+		counter(lst-ctn-kix_list_1-4, decimal) '. ';
+}
+ol.lst-kix_list_1-0.start {
+	counter-reset: lst-ctn-kix_list_1-0 0;
+}
+.lst-kix_list_1-0 > li {
+	counter-increment: lst-ctn-kix_list_1-0;
+}
+.lst-kix_list_1-6 > li {
+	counter-increment: lst-ctn-kix_list_1-6;
+}
+.lst-kix_list_1-7 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '.'
+		counter(lst-ctn-kix_list_1-4, decimal) '.' counter(lst-ctn-kix_list_1-5, decimal) '.'
+		counter(lst-ctn-kix_list_1-6, decimal) '.' counter(lst-ctn-kix_list_1-7, decimal) '. ';
+}
+ol.lst-kix_list_2-7.start {
+	counter-reset: lst-ctn-kix_list_2-7 0;
+}
+.lst-kix_list_1-3 > li {
+	counter-increment: lst-ctn-kix_list_1-3;
+}
+.lst-kix_list_1-5 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '.'
+		counter(lst-ctn-kix_list_1-4, decimal) '.' counter(lst-ctn-kix_list_1-5, decimal) '. ';
+}
+.lst-kix_list_1-6 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '.'
+		counter(lst-ctn-kix_list_1-4, decimal) '.' counter(lst-ctn-kix_list_1-5, decimal) '.'
+		counter(lst-ctn-kix_list_1-6, decimal) '. ';
+}
+li.li-bullet-0:before {
+	margin-left: -18pt;
+	white-space: nowrap;
+	display: inline-block;
+	min-width: 18pt;
+}
+.lst-kix_list_2-0 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '. ';
+}
+.lst-kix_list_2-1 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '. ';
+}
+ol.lst-kix_list_2-1.start {
+	counter-reset: lst-ctn-kix_list_2-1 0;
+}
+.lst-kix_list_2-5 > li {
+	counter-increment: lst-ctn-kix_list_2-5;
+}
+.lst-kix_list_2-8 > li {
+	counter-increment: lst-ctn-kix_list_2-8;
+}
+.lst-kix_list_1-8 > li:before {
+	content: '' counter(lst-ctn-kix_list_1-0, decimal) '.' counter(lst-ctn-kix_list_1-1, decimal) '.'
+		counter(lst-ctn-kix_list_1-2, decimal) '.' counter(lst-ctn-kix_list_1-3, decimal) '.'
+		counter(lst-ctn-kix_list_1-4, decimal) '.' counter(lst-ctn-kix_list_1-5, decimal) '.'
+		counter(lst-ctn-kix_list_1-6, decimal) '.' counter(lst-ctn-kix_list_1-7, decimal) '.'
+		counter(lst-ctn-kix_list_1-8, decimal) '. ';
+}
+.lst-kix_list_2-2 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '. ';
+}
+.lst-kix_list_2-3 > li:before {
+	content: '' counter(lst-ctn-kix_list_2-0, decimal) '.' counter(lst-ctn-kix_list_2-1, decimal) '.'
+		counter(lst-ctn-kix_list_2-2, decimal) '.' counter(lst-ctn-kix_list_2-3, decimal) '. ';
+}
+.lst-kix_list_2-2 > li {
+	counter-increment: lst-ctn-kix_list_2-2;
+}
+ol.lst-kix_list_2-4.start {
+	counter-reset: lst-ctn-kix_list_2-4 0;
+}
+ol {
+	margin: 0;
+	padding: 0;
+}
+table td,
+table th {
+	padding: 0;
+}
+.c48 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 1pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 245.3pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c29 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 1pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 1pt;
+	width: 245.3pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c50 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 1pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 196.1pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c27 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 1pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 1pt;
+	width: 196.1pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c0 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 245.3pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c14 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 1pt;
+	width: 245.3pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c25 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 236.7pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c35 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 196.1pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c41 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 1pt;
+	width: 196.1pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c55 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: top;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 49.2pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c26 {
+	border-right-style: solid;
+	padding: 0pt 5.8pt 0pt 5.8pt;
+	border-bottom-color: #000000;
+	border-top-width: 0pt;
+	border-right-width: 0pt;
+	border-left-color: #000000;
+	vertical-align: middle;
+	border-right-color: #000000;
+	border-left-width: 0pt;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-width: 0pt;
+	width: 236.7pt;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+}
+.c4 {
+	margin-left: 0pt;
+	padding-top: 0pt;
+	list-style-position: inside;
+	text-indent: 28.4pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c31 {
+	margin-left: 36pt;
+	padding-top: 0pt;
+	padding-left: 0pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+.c12 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	list-style-position: inside;
+	text-indent: 28.3pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c6 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+	height: 14pt;
+}
+.c30 {
+	margin-left: 0pt;
+	padding-top: 0pt;
+	list-style-position: inside;
+	text-indent: 28.4pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: right;
+}
+.c8 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+	height: 14pt;
+}
+.c1 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+.c40 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: 28.3pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+.c46 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: 28.3pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.c18 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c45 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 12pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.c56 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.c52 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.c23 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: 28.3pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c43 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+.c9 {
+	margin-left: 14.2pt;
+	padding-top: 0pt;
+	text-indent: -14.2pt;
+	padding-bottom: 0pt;
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c17 {
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+	height: 14pt;
+}
+.c11 {
+	padding-top: 0pt;
+	text-indent: 28.4pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c10 {
+	color: #000000;
+	font-weight: 400;
+	text-decoration: none;
+	vertical-align: baseline;
+	font-size: 10pt;
+	font-family: 'Times New Roman';
+	font-style: normal;
+}
+.c5 {
+	color: #000000;
+	font-weight: 400;
+	text-decoration: none;
+	vertical-align: baseline;
+	font-size: 11pt;
+	font-family: 'Times New Roman';
+	font-style: normal;
+}
+.c22 {
+	padding-top: 0pt;
+	text-indent: 28.4pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.c19 {
+	padding-top: 0pt;
+	text-indent: 28.4pt;
+	padding-bottom: 0pt;
+	line-height: 1.1500000000000001;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+.c33 {
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: justify;
+}
+.c13 {
+	-webkit-text-decoration-skip: none;
+	font-weight: 700;
+	text-decoration: underline;
+	text-decoration-skip-ink: none;
+	font-style: italic;
+}
+.c2 {
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	line-height: 1.15;
+	text-align: left;
+	height: 14pt;
+}
+.c24 {
+	-webkit-text-decoration-skip: none;
+	font-weight: 400;
+	text-decoration: underline;
+	text-decoration-skip-ink: none;
+	font-style: normal;
+}
+.c44 {
+	font-weight: 400;
+	text-decoration: none;
+	font-size: 8pt;
+	font-style: normal;
+}
+.c37 {
+	font-weight: 400;
+	text-decoration: none;
+	font-size: 12pt;
+	font-style: normal;
+}
+.c16 {
+	text-decoration-skip-ink: none;
+	-webkit-text-decoration-skip: none;
+	font-weight: 700;
+	text-decoration: underline;
+}
+.c42 {
+	margin-left: -5.8pt;
+	border-spacing: 0;
+	border-collapse: collapse;
+	margin-right: auto;
+}
+.c21 {
+	font-weight: 700;
+	text-decoration: none;
+	font-style: normal;
+}
+.c53 {
+	font-weight: 400;
+	text-decoration: none;
+	font-size: 14pt;
+}
+.c47 {
+	background-color: #ffffff;
+	max-width: 481.9pt;
+	padding: 56.7pt 35.4pt 56.7pt 78pt;
+}
+.c15 {
+	color: #000000;
+	vertical-align: baseline;
+	font-family: 'Times New Roman';
+}
+.c3 {
+	padding: 0;
+	margin: 0;
+}
+.c54 {
+	font-weight: 400;
+	text-decoration: none;
+}
+.c20 {
+	color: #000000;
+	text-decoration: none;
+}
+.c39 {
+	margin-left: 0pt;
+	list-style-position: inside;
+}
+.c57 {
+	font-size: 10pt;
+}
+.c38 {
+	font-size: 12pt;
+}
+.c36 {
+	text-indent: 28.4pt;
+}
+.c32 {
+	height: 0pt;
+}
+.c51 {
+	font-style: normal;
+}
+.c34 {
+	height: 14pt;
+}
+.c28 {
+	font-size: 9pt;
+}
+.c49 {
+	font-weight: 700;
+}
+.c7 {
+	font-size: 11pt;
+}
+.title {
+	padding-top: 24pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 36pt;
+	padding-bottom: 6pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+.subtitle {
+	padding-top: 18pt;
+	color: #666666;
+	font-size: 24pt;
+	padding-bottom: 4pt;
+	font-family: 'Georgia';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	font-style: italic;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+li {
+	color: #000000;
+	font-size: 14pt;
+	font-family: 'Times New Roman';
+}
+p {
+	margin: 0;
+	color: #000000;
+	font-size: 14pt;
+	font-family: 'Times New Roman';
+}
+h1 {
+	padding-top: 12pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 11pt;
+	padding-bottom: 0pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+h2 {
+	padding-top: 0pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 18pt;
+	padding-bottom: 0pt;
+	font-family: 'Times New Roman';
+	line-height: 1;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+h3 {
+	padding-top: 14pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 14pt;
+	padding-bottom: 4pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+h4 {
+	padding-top: 12pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 12pt;
+	padding-bottom: 2pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+h5 {
+	padding-top: 11pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 11pt;
+	padding-bottom: 2pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
+h6 {
+	padding-top: 10pt;
+	color: #000000;
+	font-weight: 700;
+	font-size: 10pt;
+	padding-bottom: 2pt;
+	font-family: 'Times New Roman';
+	line-height: 1.1500000000000001;
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	text-align: left;
+}
